@@ -1,0 +1,14 @@
+- <span class="iconfont icon-atom"></span> 指南
+  - [<span class="iconfont icon-fly"></span> 产品简介](guide/)
+     - [<span class="iconfont icon-page"></span> 技术优势](guide/#dart-技术优势)
+     - [<span class="iconfont icon-mix"></span> 界面预览](guide/#art-界面预览)
+  - [<span class="iconfont icon-router"></span> 使用场景](guide/usage.md)
+     - [<span class="iconfont icon-component"></span> 家庭娱乐](guide/usage#house-家庭娱乐)
+     - [<span class="iconfont icon-wxapp"></span> 企业办公](guide/usage#office-企业办公)
+  - [<span class="iconfont icon-alert"></span> 注册登录](guide/begin.md)
+     - [<span class="iconfont icon-crown"></span> 管理后台](guide/begin#lemon-管理后台)
+     - [<span class="iconfont icon-matrix"></span> 客户端](guide/begin#melon-客户端)
+  - [<span class="iconfont icon-nut"></span> 常见问题](guide/problems.md)
+  - [<span class="iconfont icon-discord"></span> 加入讨论](guide/discuss.md)
+
+
