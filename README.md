@@ -1,6 +1,6 @@
-# 南墙简介
+# 法海简介
 
-[![GitHub stars](https://img.shields.io/github/stars/Safe3/fahi.svg?label=关注&nbsp;南墙&style=for-the-badge)](https://github.com/Safe3/fahi)
+[![GitHub stars](https://img.shields.io/github/stars/Safe3/fahi.svg?label=关注&nbsp;法海&style=for-the-badge)](https://github.com/Safe3/fahi)
 [![Chat](https://img.shields.io/badge/Discuss-加入讨论组-7289da.svg?style=for-the-badge)](https://github.com/Safe3/fahi/discussions)
 
 > **法海**（简称：`fahi`）是有安科技推出的一款打破传统网络边界的超级组网产品。通过有安科技特有的极高成功率p2p隧道打通技术，结合下层被Linux创始人称做艺术品组网神器的WireGuard，创造出超越现有VPN体验的超级组网产品。广泛适用于家庭游戏娱乐、远程安全办公、跨地域物联网设备管理、异地安全组网等多种场景。
