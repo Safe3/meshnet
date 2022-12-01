@@ -1,15 +1,12 @@
-# 法海简介
+# 产品简介
 
 [![GitHub stars](https://img.shields.io/github/stars/Safe3/fahi.svg?label=关注&nbsp;法海&style=for-the-badge)](https://github.com/Safe3/fahi)
 [![Chat](https://img.shields.io/badge/Discuss-加入讨论组-7289da.svg?style=for-the-badge)](https://github.com/Safe3/fahi/discussions)
 
-> **法海**（简称：`fahi`）是有安科技推出的一款打破传统网络边界的超级组网产品。通过有安科技特有的极高成功率p2p隧道打通技术，结合下层被Linux创始人称做艺术品组网神器的WireGuard，创造出超越现有VPN体验的超级组网产品。广泛适用于家庭游戏娱乐、远程安全办公、跨地域物联网设备管理、异地安全组网等多种场景。
-
-🏠安装及使用请访问官网： https://fahi.uusec.com/
+!> **法海**（简称：`fahi`）是有安科技推出的一款打破传统网络边界的超级组网产品。通过有安科技特有的极高成功率p2p隧道打通技术，结合下层被Linux创始人称做艺术品组网神器的WireGuard，创造出超越现有VPN体验的超级组网产品。广泛适用于家庭游戏娱乐、远程安全办公、跨地域物联网设备管理、异地安全组网等多种场景。
 
 
-
-## :dart: 技术优势 
+## :dart: 技术优势 <!-- {docsify-ignore} -->
 - :libra: 先进的P2P技术
 
   法海采用业界领先的**NAT隧道打通**技术，可有效穿越各种复杂网络环境，包括完全圆锥型NAT、IP限制圆锥型NAT、Port限制圆锥型NAT、对称型NAT等场景，实现了无需网关的P2P点对点直接数据传输功能，从而极大的解决了传统VPN网络单点稳定性差、网络拥塞速度慢、配置复杂、管理麻烦、缺乏多因素安全认证等问题，用户无需太多组网经验，即可搭建灵活、高效、安全，无需网关的安全网络。
@@ -24,7 +21,7 @@
   
   
 
-##  :art: 界面预览
+##  :art: 界面预览 <!-- {docsify-ignore} -->
 
 法海为你提供了简单易用的Web后台管理界面，注册登录后所有管理操作都可以在浏览器中完成，如下：
 
@@ -37,20 +34,4 @@
 ![](https://fahi.uusec.com/_media/mac-client.png)
 
 
-
-
-
-## :kissing_heart: 加入讨论
-
-欢迎各位就 法海 的各种bug或功能需求及使用问题，在如下渠道参与讨论
-
-- 问题提交：https://github.com/Safe3/fahi/issues
-
-- 讨论社区：https://github.com/Safe3/fahi/discussions
-
-- 官方 QQ 群：11500614
-
-- 官方微信群：微信扫描以下二维码加入
-
-  <img src="https://waf.uusec.com/_media/weixin.jpg" alt="微信群"  height="200px" />
 
