@@ -10,4 +10,4 @@
 [马上开始 <i class="iconfont icon-down"></i>](#main)
 
 <!-- background image -->
-![](_media/2.jpg)
+![](_media/2.png)
