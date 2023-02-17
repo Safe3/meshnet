@@ -5,10 +5,11 @@
   - [<span class="iconfont icon-router"></span> 使用场景](guide/usage.md)
      - [<span class="iconfont icon-component"></span> 家庭娱乐](guide/usage#house-家庭娱乐)
      - [<span class="iconfont icon-wxapp"></span> 企业办公](guide/usage#office-企业办公)
-  - [<span class="iconfont icon-alert"></span> 注册登录](guide/begin.md)
+  - [<span class="iconfont icon-alert"></span> 使用方法](guide/begin.md)
      - [<span class="iconfont icon-crown"></span> 管理后台](guide/begin#lemon-管理后台)
      - [<span class="iconfont icon-matrix"></span> 客户端](guide/begin#melon-客户端)
+     - [<span class="iconfont icon-satellite"></span> 自定义域名](guide/begin#grapes-自定义域名)
+     - [<span class="iconfont icon-more"></span> 路由功能](guide/begin#strawberry-路由功能)
   - [<span class="iconfont icon-nut"></span> 常见问题](guide/problems.md)
   - [<span class="iconfont icon-discord"></span> 加入讨论](guide/discuss.md)
-
 
