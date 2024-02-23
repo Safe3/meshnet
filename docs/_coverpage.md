@@ -6,8 +6,8 @@
 
 广泛适用于家庭游戏娱乐、远程安全办公、跨地域服务器和物联网设备管理、异地安全组网等多种场景
 
-[<i class="iconfont icon-github"></i> GitHub](https://github.com/Safe3/fahi)
-[马上开始 <i class="iconfont icon-down"></i>](#main)
+[<i class="iconfont icon-github"></i> 注册登录](https://fh.uusec.com)
+[产品介绍 <i class="iconfont icon-down"></i>](#main)
 
 <!-- background image -->
 ![](_media/2.png)
