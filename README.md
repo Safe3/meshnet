@@ -5,9 +5,9 @@
 
 > **法海**（简称：`fahi`）是有安科技推出的一款打破传统网络边界的超级组网产品。通过有安科技特有的极高成功率p2p隧道打通技术，结合下层被Linux创始人称做艺术品组网神器的WireGuard，创造出超越现有VPN体验的超级组网产品。广泛适用于家庭游戏娱乐、远程安全办公、跨地域服务器和物联网设备管理、异地安全组网等多种场景。
 
-🏠在线全功能SAAS版请访问官网：https://fahi.uusec.com/
+🏠 在线全功能SAAS版请访问官网：https://fahi.uusec.com/
 
-自架服务端社区版请访问萤火虫项目：https://github.com/Safe3/firefly
+:sparkling_heart: 自架服务端社区版请访问萤火虫项目：https://github.com/Safe3/firefly
 
 
 
