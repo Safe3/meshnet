@@ -11,6 +11,7 @@
      - [<span class="iconfont icon-satellite"></span> 自定义域名](guide/begin#grapes-自定义域名)
      - [<span class="iconfont icon-intro1"></span> 路由功能](guide/begin#strawberry-路由功能)
      - [<span class="iconfont icon-pack"></span>云堡垒机](guide/begin#pineapple-云堡垒机)
+     - [<span class="iconfont icon-wxapp"></span>云梭互联](guide/begin#peach-云梭互联)
   - [<span class="iconfont icon-nut"></span> 常见问题](guide/problems.md)
   - [<span class="iconfont icon-discord"></span> 加入讨论](guide/discuss.md)
 
