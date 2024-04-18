@@ -3,7 +3,7 @@
 [![GitHub stars](https://img.shields.io/github/stars/Safe3/fahi.svg?label=关注&nbsp;法海&style=for-the-badge)](https://github.com/Safe3/fahi)
 [![Chat](https://img.shields.io/badge/Discuss-加入讨论组-7289da.svg?style=for-the-badge)](https://github.com/Safe3/fahi/discussions)
 
-> **法海**（简称：`fahi`）是有安科技率先推出的国内首款网格网络产品。通过有安科技特有的极高成功率p2p隧道打通技术，实现分布式网格网络，省去昂贵的专线带宽费用，创造出超越现有VPN体验的超级组网产品。广泛适用于家庭游戏娱乐、远程安全办公、跨地域物联网设备管理、异地安全组网等多种场景。
+> **法海**（简称：`fahi`）是有安科技率先推出的国内首款分布式Mesh网格网络产品。通过有安科技特有的极高成功率p2p隧道打通技术，实现分布式网格网络，省去昂贵的专线带宽费用，创造出超越现有VPN体验的超级组网产品。广泛适用于家庭游戏娱乐、远程安全办公、跨地域物联网设备管理、异地安全组网等多种场景。
 
 🏠 在线全功能SAAS版请访问官网：https://fahi.uusec.com/
 
