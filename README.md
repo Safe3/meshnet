@@ -40,7 +40,7 @@
 
 - :oden: 管理后台
 
-![](https://fahi.uusec.com/_media/fahi-web.jpeg)
+![](https://fahi.uusec.com/_media/fahi-web.png)
 
 - :package: 客户端展示
 
