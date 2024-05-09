@@ -1,7 +1,7 @@
 # 产品简介
 
-[![GitHub stars](https://img.shields.io/github/stars/Safe3/fahi.svg?label=关注&nbsp;鹊桥&style=for-the-badge)](https://github.com/Safe3/fahi)
-[![Chat](https://img.shields.io/badge/Discuss-加入讨论组-7289da.svg?style=for-the-badge)](https://github.com/Safe3/fahi/discussions)
+[![GitHub stars](https://img.shields.io/github/stars/Safe3/meshnet.svg?label=关注&nbsp;鹊桥&style=for-the-badge)](https://github.com/Safe3/meshnet)
+[![Chat](https://img.shields.io/badge/Discuss-加入讨论组-7289da.svg?style=for-the-badge)](https://github.com/Safe3/meshnet/discussions)
 
 !> **鹊桥**（英文：`Magpie Bridge`）是有安科技率先推出的国内首款分布式Mesh网格网络产品。通过有安科技特有的极高成功率p2p隧道打通技术，可以实现分布式网格网络，省去昂贵的专线带宽费用，创造出超越现有VPN体验的超级组网产品。广泛适用于家庭游戏娱乐、远程安全办公、跨地域物联网设备管理、异地安全组网等多种场景。
 
@@ -35,11 +35,11 @@
 
 - :oden: 管理后台
 
-![](https://fahi.uusec.com/_media/fahi-web.png)
+![](https://qq.uusec.com/_media/qq-web.png)
 
 - :package: 客户端展示
 
-![](https://fahi.uusec.com/_media/mac-client.png)
+![](https://qq.uusec.com/_media/mac-client.png)
 
 
 

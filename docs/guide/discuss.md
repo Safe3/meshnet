@@ -1,9 +1,9 @@
 # 加入讨论
 ?> 欢迎各位就 鹊桥 的各种bug或功能需求及使用问题，在如下渠道参与讨论:
 
-- 问题提交：https://github.com/Safe3/fahi/issues
+- 问题提交：https://github.com/Safe3/meshnet/issues
 
-- 讨论社区：https://github.com/Safe3/fahi/discussions
+- 讨论社区：https://github.com/Safe3/meshnet/discussions
 
 - 官方 QQ 群：11500614
 
