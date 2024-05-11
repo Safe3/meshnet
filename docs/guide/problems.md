@@ -4,5 +4,5 @@
 
 
 ### :apple: 为什么我的苹果客户端无法粘贴复制网络ID？ <!-- {docsify-ignore} -->
-?> 目前由于苹果系统的自身限制，普通用户没有权限复制内容到管理员权限应用。请打开终端执行sudo /Applications/fahi-ui.app/Contents/MacOS/fahi-ui命令启动应用后，进行复制粘贴。
+?> 目前由于苹果系统的自身限制，普通用户没有权限复制内容到管理员权限应用。请打开终端执行sudo /Applications/mbui.app/Contents/MacOS/mbui命令启动应用后，进行复制粘贴。
 
