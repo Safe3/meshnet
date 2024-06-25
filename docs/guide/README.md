@@ -35,11 +35,11 @@
 
 - :oden: 管理后台
 
-![](https://qq.uusec.com/_media/qq-web.png)
+<img src="https://qq.uusec.com/_media/qq-web.png" class="sd"/>
 
 - :package: 客户端展示
 
-![](https://qq.uusec.com/_media/mac-client.png)
+<img src="https://qq.uusec.com/_media/mac-client.png" class="sd"/>
 
 
 
