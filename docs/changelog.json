@@ -2,5 +2,9 @@
   "1": "Initial version. Enjoy!",
   "2": "Support both kernel and user mode. Enjoy!",
   "3": "UI upgraded, bug fixed. Have a nice day!",
-  "3.1": "Some improvement. May your life be better!"
+  "3.1": "Some improvement. May your life be better!",
+  "4.0": "Support tcp proxy to prevent UDP QoS!",
+  "4.1": "Support visiting local subnet while wireguard is enabled!",
+  "4.2": "Fix the issue where subnet masks remain fixed when users customize network segments.",
+  "4.3": "Fix the issue of difficulty scanning QR codes."
 }
