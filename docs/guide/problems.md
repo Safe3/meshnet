@@ -3,6 +3,10 @@
 
 
 
-### :apple: 为什么我的苹果客户端无法粘贴复制网络ID？ <!-- {docsify-ignore} -->
-?> 目前由于苹果系统的自身限制，普通用户没有权限复制内容到管理员权限应用。请打开终端执行sudo /Applications/mbui.app/Contents/MacOS/mbui命令启动应用后，进行复制粘贴。
+### 🍏 为什么我的Windows 10系统无法打开客户端界面？ <!-- {docsify-ignore} -->
+?> 部分老版本或精简Windows 10系统没有安装微软Edge浏览器，鹊桥客户端依赖 [Microsoft Edge WebView2](https://developer.microsoft.com/zh-cn/microsoft-edge/webview2/?form=MA13LH) 运行环境，用户可自行下载安装 WebView2后再运行客户端 。
+
+### 🍑 为什么使用云梭互联传输文件时提示传输通道不通？ <!-- {docsify-ignore} -->
+
+?> 浏览器页面切换有时会断开网络连接，此时可以刷新两台互传设备的浏览重试，如果依然无法传输则说明你的网络或浏览器对点对点传输协议有所限制，请换个浏览器或网络环境。
 
