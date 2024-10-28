@@ -1,7 +1,8 @@
 - <span class="iconfont icon-atom"></span> 指南
   - [<span class="iconfont icon-fly"></span> 产品简介](guide/)
-     - [<span class="iconfont icon-page"></span> 技术优势](guide/#dart-技术优势)
-     - [<span class="iconfont icon-mix"></span> 界面预览](guide/#art-界面预览)
+     - [<span class="iconfont icon-page"></span> 技术优势](guide/?id=%f0%9f%8e%af-%e6%8a%80%e6%9c%af%e4%bc%98%e5%8a%bf)
+     - [<span class="iconfont icon-star"></span> 功能对比](guide/?id=%f0%9f%94%a5-%e5%8a%9f%e8%83%bd%e5%af%b9%e6%af%94)
+     - [<span class="iconfont icon-mix"></span> 界面预览](guide/?id=%f0%9f%8e%a8-%e7%95%8c%e9%9d%a2%e9%a2%84%e8%a7%88)
   - [<span class="iconfont icon-router"></span> 使用场景](guide/usage.md)
      - [<span class="iconfont icon-component"></span> 家庭娱乐](guide/usage#house-家庭娱乐)
      - [<span class="iconfont icon-wxapp"></span> 企业办公](guide/usage#office-企业办公)
