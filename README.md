@@ -5,7 +5,7 @@
 
 > **鹊桥**（英文：`Magpie Bridge`）是有安科技率先推出的国内首款分布式安全Mesh网格网络产品。通过有安科技特有的极高成功率p2p隧道打通技术，实现分布式网格网络，省去昂贵的专线带宽费用，创造出超越现有VPN体验的超级组网产品。广泛适用于家庭游戏娱乐、远程安全办公、跨地域物联网设备管理、异地安全组网等多种场景。
 
-🏠 在线全功能SAAS版请访问官网：https://qq.uusec.com/
+🏠 全功能在线SAAS版请访问官网：https://qq.uusec.com/
 
 :sparkling_heart: 自架服务端社区版请访问萤火虫项目：https://github.com/Safe3/firefly
 
