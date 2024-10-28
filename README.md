@@ -9,7 +9,7 @@
 
 :sparkling_heart: 自架服务端社区版请访问萤火虫项目：https://github.com/Safe3/firefly
 
-**<font color=red>注意：本产品无翻墙功能，不提供国外服务器用于访问国外网络，使用时请遵守本国法律。</font>**
+**<span color=red>注意：本产品无翻墙功能，不提供国外服务器用于访问国外网络，使用时请遵守本国法律。</span>**
 
 ![](https://qq.uusec.com/_media/qq-web.png)
 
