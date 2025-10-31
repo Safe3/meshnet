@@ -58,3 +58,8 @@ $\textcolor{red}{注意：本产品不提供国外服务器用于访问国外网
 
   <img src="https://waf.uusec.com/_media/weixin.jpg" alt="微信群"  height="200px" />
 
+
+
+## :key: 授权
+
+如要购买整套系统或源码请联系我们获取商业授权。

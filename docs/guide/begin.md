@@ -6,7 +6,7 @@
 
 ##  :lemon:管理后台 <!-- {docsify-ignore} -->
 ?> 1.  首先访问鹊桥管理后台注册一个账号，注册地址： [https://meshnet.uusec.com/](https://meshnet.uusec.com/)。
-<br/>2. 登录后点击**节点安装**菜单，根据系统类型安装对应客户端，目前鹊桥除了支持常见的**Windows、Mac**、**Linux**以外，还支持**群晖NAS、树莓派、OpenWRT**等多种操作系统。
+<br/>2. 登录后点击**节点安装**菜单，根据系统类型安装对应客户端，目前鹊桥除了支持常见的**Windows、Mac**、**Linux**以外，还支持**群晖NAS、树莓派、OpenWrt**等Linux衍生操作系统。
 
 
 
